@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Memory Reaction</string>
+
+    <string name="two">2*2</string>
+    <string name="three">3*3</string>
+
+    <string name="start">Start</string>
+    <string name="end">End</string>
+    <string name="save">Save</string>
+    <string name="get_start">Get Start</string>
+    <string name="game_over">Game Over!</string>
+
+</resources>
